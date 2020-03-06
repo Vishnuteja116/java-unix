@@ -1,0 +1,5 @@
+Open Putty Software
+UNIX Server IPAddress is 172.26.100.21.
+UNIX Server Port is  22.
+UNIX Server User Id is  sysadmin.
+UNIX Server Password is  GDC123$.
